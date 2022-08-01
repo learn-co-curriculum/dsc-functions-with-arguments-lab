@@ -4,7 +4,9 @@
 In this lesson, we have decided to visit one of our travel destinations! This time we have chosen to visit Albuquerque, but we aren't very familiar with this city and are quite hungry after our long flight. We will be working with information we pulled from the Yelp database to help us find a restaurant where we can satisfy our hunger. While Yelp is great for learning about what to do in Albuquerque, it gives us back a lot of information. We'll use what we know about functions and dictionaries to format and read our data more easily. 
 
 ## Objectives
+
 You will be able to:
+
 * Declare and use a function with arguments
 
 ## Exploring Two Restaurants in Albuquerque
